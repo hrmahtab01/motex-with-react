@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ulli{
+    @apply text-[25px] text-[#000000] font-sans font-bold;
+      
+}
+
+.btncss{
+    @apply py-[15px] px-[20px] bg-[#fff] rounded-[5px] text-[23px] text-[#363232] font-sans font-bold
+}
